@@ -1,0 +1,31 @@
+body {
+    margin: 0px;
+    background-image: url(img/faded-office.png);
+    background-size: cover;
+    
+    
+}
+
+.title-card {
+    margin: 50px 0px 0px 75px;
+    width: 300px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 25px;
+}
+
+button{
+    padding: 10px 30px 10px 30px;
+    border: none;
+    background-color: #0096c7;
+    color: white;
+}
+
+span {
+    text-decoration: 5px underline #0096c7;
+}
